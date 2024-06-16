@@ -1,0 +1,12 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex f8ba159..cce9e9e 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -9,6 +9,7 @@[m
+ <body>[m
+     <p>[m
+         Hello it's me.[m
+[32m+[m[32m        Hey this is feature 2(dropdown).[m
+         Hey this is feature 2 (button).[m
+     </p>[m
+ </body>[m
